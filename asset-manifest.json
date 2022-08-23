@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/malavnitin199/NewsUP/static/css/main.31d6cfe0.css",
+    "main.js": "/malavnitin199/NewsUP/static/js/main.b88e08bc.js",
+    "static/js/787.4c026eef.chunk.js": "/malavnitin199/NewsUP/static/js/787.4c026eef.chunk.js",
+    "index.html": "/malavnitin199/NewsUP/index.html",
+    "main.b88e08bc.js.map": "/malavnitin199/NewsUP/static/js/main.b88e08bc.js.map",
+    "787.4c026eef.chunk.js.map": "/malavnitin199/NewsUP/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.b88e08bc.js"
+  ]
+}
